@@ -5,15 +5,15 @@
     }`"
   >
     <div class="p-4">
-      <h2 class="text-gray-500 text-sm font-bold uppercase mb-2">Menu</h2>
+      <h2 class="text-gray-500 text-sm font-bold uppercase mt-5 mb-2">Menu</h2>
 
       <div class="-mx-4">
         <menu-item to="/">
-          <span class="material-icons mr-2">home</span>Home
+          <span class="material-icons mr-2 m-2">home</span>Home
         </menu-item>
 
         <menu-item to="/authors">
-          <span class="material-icons mr-2">group</span>Authors
+          <span class="material-icons mr-2 m-2">group</span>Authors
         </menu-item>
       </div>
     </div>
